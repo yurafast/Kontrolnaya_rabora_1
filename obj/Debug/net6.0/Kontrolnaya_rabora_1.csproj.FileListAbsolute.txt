@@ -1,0 +1,15 @@
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\bin\Debug\net6.0\Kontrolnaya_rabora_1.exe
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\bin\Debug\net6.0\Kontrolnaya_rabora_1.deps.json
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\bin\Debug\net6.0\Kontrolnaya_rabora_1.runtimeconfig.json
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\bin\Debug\net6.0\Kontrolnaya_rabora_1.dll
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\bin\Debug\net6.0\Kontrolnaya_rabora_1.pdb
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.csproj.AssemblyReference.cache
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.AssemblyInfoInputs.cache
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.AssemblyInfo.cs
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.csproj.CoreCompileInputs.cache
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.dll
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\refint\Kontrolnaya_rabora_1.dll
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.pdb
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\Kontrolnaya_rabora_1.genruntimeconfig.cache
+E:\Учеба GB\1я-Четверть\Kontrolnaia_rabota\Kontrolnaya_rabora_1\obj\Debug\net6.0\ref\Kontrolnaya_rabora_1.dll
